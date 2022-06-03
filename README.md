@@ -4,5 +4,14 @@ Painting Board made with VanillaJS
 
 ![Hnet-image (1)](https://user-images.githubusercontent.com/75124028/170214666-b1493d3b-daf6-4f8e-ab1d-1400bab52bf3.gif)
 
-자바스크립트의 canvas기능을 이용하여 그림을 그릴수있는 캔버스를 만들었습니다
-굵기, 색깔, 전체 칠하기, 저장 등 기능을 구현
+
+기능 
+
+1. 칠하기, 색칠하기
+2. 색깔을 체인지 가능
+3. 굵기를 조절할수가 있음
+4. 저장 기능을 구현함
+
+문제
+
+1. 바로 전에 칠한 부분을 컨트롤 + z 처럼 되돌리기를 구현 하려했지만 80%만 지워지는 문제 
